@@ -41,11 +41,11 @@ main:
 
   torso tau:
     legends:
-      - { key: st_tau, id: [12], label: st_chest-r}
-      - { key: st_tau, id: [13], label: st_chest-p}
-      - { key: st_tau, id: [14], label: st_chest-y}
-      - { key: st_tau, id: [15], label: st_neck-y}
-      - { key: st_tau, id: [16], label: st_neck-p}
+      # - { key: st_tau, id: [12], label: st_chest-r}
+      # - { key: st_tau, id: [13], label: st_chest-p}
+      # - { key: st_tau, id: [14], label: st_chest-y}
+      # - { key: st_tau, id: [15], label: st_neck-y}
+      # - { key: st_tau, id: [16], label: st_neck-p}
       - { key: torque, id: [12], label: rh_chest-r}
       - { key: torque, id: [13], label: rh_chest-p}
       - { key: torque, id: [14], label: rh_chest-y}

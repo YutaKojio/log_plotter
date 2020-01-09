@@ -26,8 +26,8 @@ main:
     legends:
       - { key: abc_contactStates, id: [0], label: rleg }
       - { key: abc_contactStates, id: [1], label: lleg }
-      - { key: st_debugData, id: [0], label: rleg_contact_phase }
-      - { key: st_debugData, id: [1], label: lleg_contact_phase }
+      # - { key: st_debugData, id: [0], label: rleg_contact_phase }
+      # - { key: st_debugData, id: [1], label: lleg_contact_phase }
       - { key: abc_controlSwingSupportTime, id: [0], label: rleg_time }
       - { key: abc_controlSwingSupportTime, id: [1], label: lleg_time }
     bottom_label:
